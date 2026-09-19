@@ -1,0 +1,33 @@
+# Generated for Omarchy
+mode = "dark"
+
+accent = "#D9661F"
+selection = "#2e3a45"
+selection_foreground = "#f8f9fa"
+muted = "#6c7a89"
+
+background = "#1a1e24"
+dark_background = "#14171c"
+darker_background = "#0f1115"
+lighter_background = "#252b34"
+
+foreground = "#d1d5db"
+dark_foreground = "#9ca3af"
+light_foreground = "#e5e7eb"
+bright_foreground = "#f3f4f6"
+
+red = "#f25c54"
+yellow = "#D9661F"
+orange = "#D9661F"
+green = "#4ade80"
+cyan = "#00AEEF"
+blue = "#00AEEF"
+magenta = "#a78bfa"
+brown = "#9a7b4f"
+
+bright_red = "#f87171"
+bright_yellow = "#E87D39"
+bright_green = "#86efac"
+bright_cyan = "#38bdf8"
+bright_blue = "#38bdf8"
+bright_magenta = "#c084fc"

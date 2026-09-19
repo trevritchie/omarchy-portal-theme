@@ -1,31 +1,22 @@
-# Portal for Omarchy
+# Portal Theme for Omarchy
 
-A dark theme for Omarchy using a high-contrast orange and blue duotone palette, inspired by the Portal video game series. 
+A dark theme for Omarchy using a blue and orange palette, inspired by the Portal video game series. Includes 15 thematic backgrounds.
 
 ![Portal desktop preview](preview.jpg)
 
-## Features
-
-- **Duotone Palette:** Standard terminal syntax colors are re-mapped to emphasize orange and blue.
-- **Custom Backgrounds:** Includes 15 cycling backgrounds.
-- **System Icons:** Configured to use the `Yaru-blue-dark` icon theme.
-- **Dark Background:** Uses a `#1a1e24` background color.
-
 ## Install
 
-Open the Omarchy Menu with `Super + Space`, then choose **Install > Style > Theme** and paste:
-
-```text
-https://github.com/<your-username>/portal
-```
-
-Or install from the terminal:
+Install from the terminal:
 
 ```bash
 omarchy theme install https://github.com/<your-username>/portal
 ```
 
-The theme applies immediately. To return to it later, use **Style > Theme** or press `Super + Ctrl + Shift + Space`.
+Or, open the Omarchy Menu with `Super + Space`, then choose **Install > Style > Theme** and paste:
+
+```text
+https://github.com/<your-username>/portal
+```
 
 ## Included Integrations
 

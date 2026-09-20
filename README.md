@@ -27,9 +27,9 @@ Portal uses Omarchy's `colors.toml` to automatically generate configurations for
 
 | Surface | Integrations |
 |---|---|
-| Omarchy shell | Top bar, menus, launcher, notifications, OSD, auth prompts, image picker, lock screen |
-| Hyprland | Borders, rounded corners, gaps, blur, animations, active-window glow |
-| Terminals | Ghostty, Alacritty, Kitty, Foot, tmux |
-| Editors | Neovim, Helix, Obsidian, VS Code, VSCodium, Cursor |
-| CLI Tools | Claude Code, Pi, OpenCode, Gum, btop |
-| Browsers | Chromium, Chrome, Edge, Brave, Firefox |
+| Omarchy shell | Top bar, menus, launcher, notifications, OSD, auth prompts, image picker, lock screen, ... |
+| Hyprland | Borders, rounded corners, gaps, blur, animations, active-window glow, ... |
+| Terminals | Ghostty, Alacritty, Kitty, Foot, tmux, ... |
+| Editors | Neovim, Zed, Helix, Obsidian, VS Code, VSCodium, Cursor, ... |
+| CLI Tools | Claude Code, Pi, OpenCode, Gum, btop, ... |
+| Browsers | Chromium, Chrome, Edge, Brave, Firefox, ... |

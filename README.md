@@ -12,13 +12,13 @@ A dark theme for Omarchy using a blue and orange palette, inspired by the Portal
 Install from the terminal:
 
 ```bash
-omarchy theme install https://github.com/<your-username>/portal
+omarchy theme install https://github.com/trevritchie/omarchy-portal-theme
 ```
 
 Or, open the Omarchy Menu with `Super + Space`, then choose **Install > Style > Theme** and paste:
 
 ```text
-https://github.com/<your-username>/portal
+https://github.com/trevritchie/omarchy-portal-theme
 ```
 
 ## Included Integrations

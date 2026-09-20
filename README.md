@@ -4,6 +4,9 @@ A dark theme for Omarchy using a blue and orange palette, inspired by the Portal
 
 ![Portal desktop preview](preview.jpg)
 
+### Included Backgrounds
+![Backgrounds carousel](backgrounds-preview.webp)
+
 ## Install
 
 Install from the terminal:
